@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSavindiRashmika%2FSavindiRashmika&psig=AOvVaw3ARH20pZLEFY3DfxzBVNp5&ust=1734557460913000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCm4K_gr4oDFQAAAAAdAAAAABAR)<h1 align="center">Hi 👋, I'm Sema Nur ŞAKAR.</h1>
+[![MasterHead](https://user-images.githubusercontent.com/46911773/157439202-122d4cfd-0c10-4b53-8038-6685855ac1ab.gif)<h1 align="center">Hi 👋, I'm Sema Nur ŞAKAR.</h1>
 <h3 align="center">A passionate full-stack web developer.</h3>
 
 - 📫 How to reach me **sakarsema3@gmail.com**
