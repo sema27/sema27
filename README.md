@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)<h1 align="center">Hi 👋, I'm Sema Nur ŞAKAR.</h1>
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSavindiRashmika%2FSavindiRashmika&psig=AOvVaw3ARH20pZLEFY3DfxzBVNp5&ust=1734557460913000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCm4K_gr4oDFQAAAAAdAAAAABAR)<h1 align="center">Hi 👋, I'm Sema Nur ŞAKAR.</h1>
 <h3 align="center">A passionate full-stack web developer.</h3>
 
 - 📫 How to reach me **sakarsema3@gmail.com**
