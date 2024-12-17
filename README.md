@@ -1,5 +1,5 @@
-<img align="right" src="https://user-images.githubusercontent.com/46911773/157439202-122d4cfd-0c10-4b53-8038-6685855ac1ab.gif" width="380" height="280" alt="girl coding img" >][myprofile]
->Hi 👋, I'm Sema Nur ŞAKAR.</h1>
+<img align="right" src="https://user-images.githubusercontent.com/46911773/157439202-122d4cfd-0c10-4b53-8038-6685855ac1ab.gif" width="380" height="280" alt="girl coding img" >
+<h1>Hi 👋, I'm Sema Nur ŞAKAR.</h1>
 <h3 align="center">A passionate full-stack web developer.</h3>
 
 - 📫 How to reach me **sakarsema3@gmail.com**
