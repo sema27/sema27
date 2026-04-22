@@ -1,14 +1,78 @@
-<h1>Hi 👋, I'm Sema Nur ŞAKAR.</h1>
-<img align="right" src="https://user-images.githubusercontent.com/46911773/157439202-122d4cfd-0c10-4b53-8038-6685855ac1ab.gif" width="380" height="280" alt="girl coding img" >
-<h3>A passionate backend developer.</h3>
+<h1>Hi 👋, I'm Sema Nur ŞAKAR</h1>
 
-- 📫 How to reach me **sakarsema3@gmail.com**
+<img align="right" src="https://user-images.githubusercontent.com/46911773/157439202-122d4cfd-0c10-4b53-8038-6685855ac1ab.gif" width="350" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sema-nur-%C5%9Fakar-838170224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sema-nur-%c5%9fakar-838170224/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/semanursakarr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/semanursakarr/" height="30" width="40" /></a>
+<h3>A passionate Backend Developer</h3>
+
+<p>
+I am a backend developer focused on the .NET ecosystem. I build scalable and maintainable services using C#, ASP.NET Core, and modern architectures. 
+Recently, I have also been developing modern web applications using Vue.js and React.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 📫 Reach me: **sakarsema3@gmail.com**
+
+---
+
+<h3>🌐 Connect with me</h3>
+
+<p style="display:flex; gap:15px;">
+  <a href="https://www.linkedin.com/in/sema-nur-%C5%9Fakar-838170224/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35"/>
+  </a>
+  <a href="https://www.instagram.com/semanursakarr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="35"/>
+  </a>
+</p>
+
+---
+
+<h3>🛠️ Languages and Tools</h3>
+
+<p style="display:flex; flex-wrap:wrap; gap:15px;">
+
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
+
+  <!-- Other -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
+
+</p>
+
+---
+
+<h3>💼 Experience</h3>
+
+- **Backend Developer Intern – Related Digital (Doğuş Group)**  
+  - Worked on RabbitMQ queue systems and fixed worker-consumer issues  
+  - Migrated project from .NET 2.2 to .NET 8  
+  - Improved logging, performance, and system stability  
+
+- **Software Developer Intern – Argede Bilişim**  
+  - Built responsive web interfaces using HTML, CSS, JavaScript  
+  - Focused on frontend performance improvements  
+
+- **Software Developer Intern – Teknoloji Yarışmaları Koordinatörlüğü**  
+  - Developed .NET desktop applications  
+  - Deployed applications to Azure  
+
+---
+
+<h3>🚀 Projects</h3>
+
+- 📧 Email Queue Simulation (RabbitMQ + .NET Core)  
+- 📷 QR Photo Upload App (Azure Blob + Minimal API)  
+- 🍽️ QR Restaurant Order System (SignalR + ASP.NET Core)  
+- 🏆 Hackathon Mobile Backend  
