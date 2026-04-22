@@ -11,7 +11,6 @@ Recently, I have also been developing modern web applications using Vue.js and R
 
 - 📫 Reach me: **sakarsema3@gmail.com**
 
----
 
 <h3>🌐 Connect with me</h3>
 
