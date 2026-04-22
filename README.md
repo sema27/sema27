@@ -14,23 +14,18 @@ Recently, I have also been developing modern web applications using Vue.js and R
 
 <h3>🌐 Connect with me</h3>
 
-<p style="display:flex; align-items:center; gap:15px;">
-
-  <!-- LinkedIn -->
+<p align="left">
   <a href="https://www.linkedin.com/in/sema-nur-%C5%9Fakar-838170224/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
   </a>
 
-  <!-- Instagram -->
   <a href="https://www.instagram.com/semanursakarr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="35"/>
   </a>
 
-  <!-- Website -->
   <a href="https://sema27.github.io/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="35"/>
   </a>
-
 </p>
 
 ---
