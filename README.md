@@ -2,7 +2,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/46911773/157439202-122d4cfd-0c10-4b53-8038-6685855ac1ab.gif" width="350" />
 
-<h3>A passionate Backend Developer</h3>
+<h3>Backend Developer</h3>
 
 <p>
 I am a backend developer focused on the .NET ecosystem. I build scalable and maintainable services using C#, ASP.NET Core, and modern architectures. 
